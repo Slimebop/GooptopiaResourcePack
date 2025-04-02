@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_nugget"
+  },
+ "overrides": [
+	{ "predicate": {"custom_model_data": 1}, "model": "xmas2024/spinhat" },
+	{ "predicate": {"custom_model_data": 2}, "model": "xmas2024/toyhammer" },
+	{ "predicate": {"custom_model_data": 3}, "model": "xmas2024/witchhat" },
+	{ "predicate": {"custom_model_data": 4}, "model": "xmas2024/mouthwash" },
+	{ "predicate": {"custom_model_data": 5}, "model": "xmas2024/goggles" },
+	{ "predicate": {"custom_model_data": 6}, "model": "xmas2024/burger" },
+	{ "predicate": {"custom_model_data": 7}, "model": "xmas2024/mushroom" },
+	{ "predicate": {"custom_model_data": 8}, "model": "xmas2024/halo" },
+	{ "predicate": {"custom_model_data": 9}, "model": "xmas2024/comicallylargespoon" },
+	{ "predicate": {"custom_model_data": 10}, "model": "xmas2024/firefly" },
+	{ "predicate": {"custom_model_data": 11}, "model": "xmas2024/kraken" },
+	{ "predicate": {"custom_model_data": 12}, "model": "xmas2024/raygun" },
+	{ "predicate": {"custom_model_data": 13}, "model": "xmas2024/antennae" },
+	{ "predicate": {"custom_model_data": 14}, "model": "xmas2024/astronaut" },
+	{ "predicate": {"custom_model_data": 15}, "model": "xmas2024/disguise" },
+	{ "predicate": {"custom_model_data": 16}, "model": "xmas2024/cathat" },
+	{ "predicate": {"custom_model_data": 17}, "model": "xmas2024/redheadband" },
+	{ "predicate": {"custom_model_data": 18}, "model": "xmas2024/cowboyhat" },
+	{ "predicate": {"custom_model_data": 19}, "model": "xmas2024/froghat" },
+	{ "predicate": {"custom_model_data": 20}, "model": "xmas2024/doghat" },
+	{ "predicate": {"custom_model_data": 21}, "model": "xmas2024/piratehat" },
+	{ "predicate": {"custom_model_data": 22}, "model": "xmas2024/bunnyhat" },
+	{ "predicate": {"custom_model_data": 23}, "model": "xmas2024/penguinhat" },
+	{ "predicate": {"custom_model_data": 24}, "model": "xmas2024/snowmanhat" },
+	{ "predicate": {"custom_model_data": 25}, "model": "xmas2024/santa" },
+	{ "predicate": {"custom_model_data": 26}, "model": "xmas2024/horns" },
+	{ "predicate": {"custom_model_data": 27}, "model": "xmas2024/strawhat" },
+	{ "predicate": {"custom_model_data": 28}, "model": "xmas2024/dipperhat" },
+	{ "predicate": {"custom_model_data": 29}, "model": "xmas2024/portalgun" },
+	{ "predicate": {"custom_model_data": 30}, "model": "xmas2024/scarf" },
+	{ "predicate": {"custom_model_data": 31}, "model": "xmas2024/twefive" },
+	{ "predicate": {"custom_model_data": 32}, "model": "xmas2024/question" },
+	{ "predicate": {"custom_model_data": 33}, "model": "xmas2024/plush" }
+ ]
+
+
+}

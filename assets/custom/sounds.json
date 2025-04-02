@@ -1,0 +1,51 @@
+{
+  "audio1": {
+    "sounds": [
+      "custom:slimebo1"]
+    },
+  "audio2": {
+    "sounds": [
+      "custom:slimebo2"]
+    },
+  "audio3": {
+    "sounds": [
+      "custom:slimebo3"]
+    },
+  "audio4": {
+    "sounds": [
+      "custom:slimebo4"]
+    },
+  "wlbegin": {
+    "sounds": [
+      "custom:wlbegin"]
+    },
+  "wldashes": {
+    "sounds": [
+      "custom:wldashes"]
+    },
+  "wldoorone": {
+    "sounds": [
+      "custom:wldoorone"]
+    },
+  "wldoortwo": {
+    "sounds": [
+      "custom:wldoortwo"]
+    },
+  "wlfinale": {
+    "sounds": [
+      "custom:wlfinale"]
+    },
+  "wlslow": {
+    "sounds": [
+      "custom:wlslow"]
+    },
+  "fullauto": {
+    "sounds": [
+      "custom:fullauto"]
+    },
+  "ampersand1": {
+    "sounds": [
+      "custom:greenroom"]
+    }
+}
+

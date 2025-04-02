@@ -1,0 +1,53 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/diamond"
+  },
+ "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "custom/oc_medal" },
+  { "predicate": {"custom_model_data": 2}, "model": "custom/c_medal" },
+  { "predicate": {"custom_model_data": 3}, "model": "custom/i_medal" },
+  { "predicate": {"custom_model_data": 4}, "model": "custom/g_medal" },
+  { "predicate": {"custom_model_data": 5}, "model": "custom/d_medal" },
+  { "predicate": {"custom_model_data": 6}, "model": "custom/p_medal" },
+  { "predicate": {"custom_model_data": 7}, "model": "custom/s_medal" },
+  { "predicate": {"custom_model_data": 8}, "model": "custom/amog_us" },
+  { "predicate": {"custom_model_data": 9}, "model": "custom/i_hate_this" },
+  { "predicate": {"custom_model_data": 10}, "model": "custom/bob_medal" },
+  { "predicate": {"custom_model_data": 11}, "model": "custom/sunglasses" },
+  { "predicate": {"custom_model_data": 12}, "model": "custom/cat_ears" },
+  { "predicate": {"custom_model_data": 13}, "model": "custom/box" },
+  { "predicate": {"custom_model_data": 14}, "model": "custom/headstack" },
+  { "predicate": {"custom_model_data": 15}, "model": "custom/tiny" },
+  { "predicate": {"custom_model_data": 16}, "model": "custom/straw_hat" },
+  { "predicate": {"custom_model_data": 17}, "model": "custom/shuttershades" },
+  { "predicate": {"custom_model_data": 18}, "model": "custom/issac" },
+  { "predicate": {"custom_model_data": 19}, "model": "custom/issacwhy" },
+  { "predicate": {"custom_model_data": 20}, "model": "custom/fiend" },
+  { "predicate": {"custom_model_data": 21}, "model": "custom/birthday" },
+  { "predicate": {"custom_model_data": 21}, "model": "custom/slimebokey" },
+  { "predicate": {"custom_model_data": 22}, "model": "custom/serverend" },
+  { "predicate": {"custom_model_data": 23}, "model": "custom/bunger" },
+  { "predicate": {"custom_model_data": 24}, "model": "custom/cinnasnail" },
+  { "predicate": {"custom_model_data": 25}, "model": "custom/mamamewon" },
+  { "predicate": {"custom_model_data": 26}, "model": "custom/plush_gun" },
+  { "predicate": {"custom_model_data": 27}, "model": "custom/slarm" },
+  { "predicate": {"custom_model_data": 28}, "model": "custom/baseball_bat" },
+  { "predicate": {"custom_model_data": 29}, "model": "custom/spamton" },
+  { "predicate": {"custom_model_data": 30}, "model": "custom/slimeifier" },
+  { "predicate": {"custom_model_data": 31}, "model": "custom/paper" },
+  { "predicate": {"custom_model_data": 32}, "model": "custom/santa" },
+  { "predicate": {"custom_model_data": 33}, "model": "custom/tbh" },
+  { "predicate": {"custom_model_data": 34}, "model": "custom/wall_skog" },
+  { "predicate": {"custom_model_data": 35}, "model": "custom/squidhat" },
+  { "predicate": {"custom_model_data": 35}, "model": "custom/neko" },
+  { "predicate": {"custom_model_data": 36}, "model": "bonusducks/destroyer" },
+  { "predicate": {"custom_model_data": 37}, "model": "bonusducks/boba" },
+  { "predicate": {"custom_model_data": 38}, "model": "custom/gas_mask" },
+  { "predicate": {"custom_model_data": 39}, "model": "custom/farmer" },
+  { "predicate": {"custom_model_data": 40}, "model": "custom/badger" }
+
+ ]
+
+
+}

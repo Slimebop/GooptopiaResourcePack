@@ -1,0 +1,51 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/bone_meal"
+  },
+ "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "ebg/flame" },
+  { "predicate": {"custom_model_data": 2}, "model": "ebg/shadow" },
+  { "predicate": {"custom_model_data": 3}, "model": "ebg/tide" },
+  { "predicate": {"custom_model_data": 4}, "model": "ebg/air" },
+  { "predicate": {"custom_model_data": 5}, "model": "ebg/bloomer" },
+  { "predicate": {"custom_model_data": 6}, "model": "ebg/sand" },
+  { "predicate": {"custom_model_data": 7}, "model": "ebg/slime" },
+  { "predicate": {"custom_model_data": 8}, "model": "ebg/fishing" },
+  { "predicate": {"custom_model_data": 9}, "model": "ebg/snake" },
+  { "predicate": {"custom_model_data": 10}, "model": "ebg/light" },
+  { "predicate": {"custom_model_data": 11}, "model": "ebg/outletfork" },
+  { "predicate": {"custom_model_data": 12}, "model": "ebg/sodium" },
+  { "predicate": {"custom_model_data": 13}, "model": "ebg/calcium" },
+  { "predicate": {"custom_model_data": 14}, "model": "ebg/cursed" },
+  { "predicate": {"custom_model_data": 15}, "model": "ebg/trackstar" },
+  { "predicate": {"custom_model_data": 16}, "model": "ebg/wizard" },
+  { "predicate": {"custom_model_data": 17}, "model": "ebg/saws" },
+  { "predicate": {"custom_model_data": 18}, "model": "ebg/banker" },
+  { "predicate": {"custom_model_data": 19}, "model": "ebg/ice" },
+  { "predicate": {"custom_model_data": 20}, "model": "ebg/earth" },
+  { "predicate": {"custom_model_data": 21}, "model": "ebg/swordsman" },
+  { "predicate": {"custom_model_data": 22}, "model": "ebg/illusionist" },
+  { "predicate": {"custom_model_data": 23}, "model": "ebg/fiend" },
+  { "predicate": {"custom_model_data": 24}, "model": "ebg/jester" },
+  { "predicate": {"custom_model_data": 25}, "model": "ebg/cadet" },
+  { "predicate": {"custom_model_data": 26}, "model": "ebg/humantorpedo" },
+  { "predicate": {"custom_model_data": 27}, "model": "ebg/olympian" },
+  { "predicate": {"custom_model_data": 28}, "model": "ebg/pugilist" },
+  { "predicate": {"custom_model_data": 29}, "model": "ebg/cactusbill" },
+  { "predicate": {"custom_model_data": 30}, "model": "ebg/traveler" },
+  { "predicate": {"custom_model_data": 31}, "model": "ebg/mechanical" },
+  { "predicate": {"custom_model_data": 32}, "model": "ebg/turret" },
+  { "predicate": {"custom_model_data": 33}, "model": "ebg/marksman" },
+  { "predicate": {"custom_model_data": 34}, "model": "ebg/rover" },
+  { "predicate": {"custom_model_data": 35}, "model": "ebg/bard" },
+  { "predicate": {"custom_model_data": 36}, "model": "ebg/engie" },
+  { "predicate": {"custom_model_data": 37}, "model": "ebg/vampire" },
+  { "predicate": {"custom_model_data": 38}, "model": "ebg/priest" },
+  { "predicate": {"custom_model_data": 39}, "model": "ebg/nucular" },
+  { "predicate": {"custom_model_data": 3403}, "model": "ebg/idk" }
+
+ ]
+
+
+}

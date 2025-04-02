@@ -1,0 +1,55 @@
+{
+  "money1": {
+    "sounds": [
+      "audiojungle:money1"]
+    },
+  "money2": {
+    "sounds": [
+      "audiojungle:money2"]
+    },
+  "money3": {
+    "sounds": [
+      "audiojungle:money3"]
+    },
+  "money4": {
+    "sounds": [
+      "audiojungle:money4"]
+    },
+  "money5": {
+    "sounds": [
+      "audiojungle:money5"]
+    },
+  "money6": {
+    "sounds": [
+      "audiojungle:money6"]
+    },
+  "goblin1": {
+    "sounds": [
+      "audiojungle:goblin1"]
+    },
+  "goblin2": {
+    "sounds": [
+      "audiojungle:goblin2"]
+    },
+  "demoman": {
+    "sounds": [
+      "audiojungle:demoman"]
+    },
+  "haveagoodtime": {
+    "sounds": [
+      "audiojungle:haveagoodtime"]
+    },
+  "heishere": {
+    "sounds": [
+      "audiojungle:heishere"]
+    },
+  "noise": {
+    "sounds": [
+      "audiojungle:noise"]
+    },
+  "preparethedrillbetter": {
+    "sounds": [
+      "audiojungle:preparethedrillbetter"]
+    }
+}
+

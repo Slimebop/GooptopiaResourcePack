@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cookie"
+  },
+ "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "custom/mint_truffle" },
+  { "predicate": {"custom_model_data": 2}, "model": "custom/dark_truffle" },
+  { "predicate": {"custom_model_data": 3}, "model": "custom/dripped_truffle" },
+  { "predicate": {"custom_model_data": 4}, "model": "custom/coated_truffle" },
+  { "predicate": {"custom_model_data": 5}, "model": "custom/peppermint_truffle" },
+  { "predicate": {"custom_model_data": 6}, "model": "custom/raspberry_truffle" },
+  { "predicate": {"custom_model_data": 7}, "model": "custom/sprinkled_truffle" },
+  { "predicate": {"custom_model_data": 8}, "model": "custom/strawberry_truffle" },
+  { "predicate": {"custom_model_data": 9}, "model": "custom/truffle" },
+  { "predicate": {"custom_model_data": 10}, "model": "custom/white_truffle" }
+ ]
+
+
+}

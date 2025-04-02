@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/echo_shard"
+  },
+ "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "inscribe/squirrel" },
+  { "predicate": {"custom_model_data": 2}, "model": "inscribe/alpha" },
+  { "predicate": {"custom_model_data": 3}, "model": "inscribe/blackgoat" },
+  { "predicate": {"custom_model_data": 4}, "model": "inscribe/bloodhound" },
+  { "predicate": {"custom_model_data": 5}, "model": "inscribe/bullfrog" },
+  { "predicate": {"custom_model_data": 6}, "model": "inscribe/coyote" },
+  { "predicate": {"custom_model_data": 7}, "model": "inscribe/fieldmice" },
+  { "predicate": {"custom_model_data": 8}, "model": "inscribe/goldnugget" },
+  { "predicate": {"custom_model_data": 9}, "model": "inscribe/grizzly" },
+  { "predicate": {"custom_model_data": 10}, "model": "inscribe/mantisgod" },
+  { "predicate": {"custom_model_data": 11}, "model": "inscribe/opossum" },
+  { "predicate": {"custom_model_data": 12}, "model": "inscribe/packmule" },
+  { "predicate": {"custom_model_data": 13}, "model": "inscribe/rattler" },
+  { "predicate": {"custom_model_data": 14}, "model": "inscribe/skunk" },
+  { "predicate": {"custom_model_data": 15}, "model": "inscribe/starvation" },
+  { "predicate": {"custom_model_data": 16}, "model": "inscribe/stinkbug" },
+  { "predicate": {"custom_model_data": 17}, "model": "inscribe/stoat" },
+  { "predicate": {"custom_model_data": 18}, "model": "inscribe/stuntedwolf" },
+  { "predicate": {"custom_model_data": 19}, "model": "inscribe/thesmoke" },
+  { "predicate": {"custom_model_data": 20}, "model": "inscribe/urayuli" },
+  { "predicate": {"custom_model_data": 21}, "model": "inscribe/wolf" },
+  { "predicate": {"custom_model_data": 22}, "model": "inscribe/wolfcub" },
+  { "predicate": {"custom_model_data": 23}, "model": "inscribe/bee" },
+  { "predicate": {"custom_model_data": 24}, "model": "inscribe/beehive" },
+  { "predicate": {"custom_model_data": 25}, "model": "inscribe/adder" },
+  { "predicate": {"custom_model_data": 26}, "model": "inscribe/geck" },
+  { "predicate": {"custom_model_data": 27}, "model": "inscribe/bellgod" },
+  { "predicate": {"custom_model_data": 28}, "model": "inscribe/chime" },
+  { "predicate": {"custom_model_data": 29}, "model": "inscribe/ohfuckheisescaping" }
+
+
+ ]
+
+
+}

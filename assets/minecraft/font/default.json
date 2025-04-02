@@ -1,0 +1,67 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/apple.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE000"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/slime_ball.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE006"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/rotten_flesh.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE007"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:item/iron_nugget.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/slime.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE003"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:custom/fire.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE002"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:custom/jeffbot.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE004"]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:custom/soul_shard.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        }
+    ]
+}

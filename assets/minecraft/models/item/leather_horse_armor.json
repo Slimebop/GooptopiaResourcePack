@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+  },
+ "overrides": [
+  {"predicate":{"custom_model_data":1},"model":"modelengine:djungleskog_alive/rightleg"},{"predicate":{"custom_model_data":2},"model":"modelengine:djungleskog_alive/leftleg"},{"predicate":{"custom_model_data":3},"model":"modelengine:djungleskog_alive/body"},{"predicate":{"custom_model_data":4},"model":"modelengine:djungleskog_alive/head"},{"predicate":{"custom_model_data":5},"model":"modelengine:djungleskog_alive/rightarm"},{"predicate":{"custom_model_data":6},"model":"modelengine:djungleskog_alive/leftarm"},
+  { "predicate": {"custom_model_data": 1000}, "model": "custom/dyeable" },
+  { "predicate": {"custom_model_data": 2000}, "model": "custom/dyeableamong" },
+  { "predicate": {"custom_model_data": 3000}, "model": "custom/castle" },
+  { "predicate": {"custom_model_data": 4000}, "model": "custom/horse" },
+  { "predicate": {"custom_model_data": 5000}, "model": "custom/pawn" },
+  { "predicate": {"custom_model_data": 6000}, "model": "custom/jefferson" },
+  { "predicate": {"custom_model_data": 99000}, "model": "custom/ghoul" },
+  { "predicate": {"custom_model_data": 51000}, "model": "silly/silly1" },
+  { "predicate": {"custom_model_data": 52000}, "model": "silly/silly2" },
+  { "predicate": {"custom_model_data": 53000}, "model": "silly/silly3" },
+  { "predicate": {"custom_model_data": 54000}, "model": "silly/silly4" },
+  { "predicate": {"custom_model_data": 55000}, "model": "silly/silly5" },
+  { "predicate": {"custom_model_data": 56000}, "model": "silly/silly6" },
+  { "predicate": {"custom_model_data": 57000}, "model": "silly/silly7" },
+  { "predicate": {"custom_model_data": 1}, "model": "projno/card_pack" },
+  { "predicate": {"custom_model_data": 2}, "model": "projno/card" },
+  { "predicate": {"custom_model_data": 58000}, "model": "ebg/unkowingone" }
+  
+ ]
+
+
+}

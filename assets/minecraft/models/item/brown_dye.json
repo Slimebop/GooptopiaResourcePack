@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/brown_dye"
+  },
+ "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "custom/djungleskog" },
+  { "predicate": {"custom_model_data": 2}, "model": "custom/crownskog" },
+  { "predicate": {"custom_model_data": 3}, "model": "custom/megadjungleskog" },
+  { "predicate": {"custom_model_data": 4}, "model": "custom/brown_mooshroom" },
+  { "predicate": {"custom_model_data": 5}, "model": "custom/bigoldscog" }
+
+ ]
+
+
+}

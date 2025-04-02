@@ -1,0 +1,1032 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "minecraft:awesome"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/breadfruit"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/tartar"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/armadillo"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/crab"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/card"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/card_pack"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/artifact_token"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/irradiant_pearl"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/dios"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/trailblazer"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/jack_o_chain"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/bridgets_yoyo"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/cypher"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/derp_coin"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/eye"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/lensmaker"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/penguin"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/bedman"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/scrap"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/leer"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/wingman"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/baton"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/gcarrotcake"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/chorus"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/chocolatecake"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/cake"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/warped"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/sweetberry"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/glowberry"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/cake"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/pumpkin"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/delinquent"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/evidence"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/judgement"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/vu_hat"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/booloo"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/morkite"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/compressed_gold"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/sharktooth"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/slime"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/faust"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/frog"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/oven"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/pepper"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/sauce"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/slimebo"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/toaster"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/toaster"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/errorcube"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/cursedbook"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/trueeye"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/fleshhead"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/tfcpickaxe"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/bumboni"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/tcg"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/trophy"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/uglyduck"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/battery"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/smallfry"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/goldenegg"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/memcake"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/hippie"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/explodedbrick"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:projno/diamondsalmon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:redball"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:gas_mask"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:farmer"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:badger"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:orangeball"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:yellowball"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:greenball"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:custom/soul_shard"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:tealball"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blueball"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:purpleball"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:pochita"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pinkball"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/amongus"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:bar"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:baseball_bat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/djungleskog"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:blueberry"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/oxidixedcoppermedalian"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:thesillys/silly1"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:thesillys/silly2"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:thesillys/silly3"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:thesillys/silly4"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:thesillys/silly5"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:thesillys/silly6"
+        },
+	{
+            "type": "single",
+            "resource": "minecraft:thesillys/silly7"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/box"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:burger"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:castle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/catears"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:coated_truffle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/crownskog"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/coppermedalian"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:dark_truffle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:dripped_truffle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/dyeableamong"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/diamedalian"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:bbmodels/fancy_duck"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/fiend"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:bbmodels/flag_trans"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:horse"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ghoul"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/gummy"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/goldmedalian"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/texture"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/hockey"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/dame_da_ne"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/ironmedalian"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:jackhammer"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:jefferson"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mint_truffle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:bbmodels/moonbooks"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:bbmodels/mooshroom"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mothza"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:nekooneshot"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:paper"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pawn"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:peppermint_truffle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:bbmodels/plushmoon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:plush_gun"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/pizze"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:raspberry_truffle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:bbmodels/rubber_duck"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:santa"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/shuttershades"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:slarm"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:slimebo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:flintandsteel/slimebokey"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:slimefield"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:slimeifier"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:spamton"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:sprinkled_truffle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:squidhat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/squirrel"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/backs/squirrel"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:strawberry_truffle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/strawhat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/glasses"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/slime"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:tbh"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:pixel/66"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:bbmodels/tophat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:truffle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:truffle_box"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:wall_skog"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:white_truffle"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:evilcat/coolcat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:projno/fridge"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/air"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:ebg/rover"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:ebg/nucular"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:ebg/priest"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:ebg/vampire"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:ebg/engie"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:ebg/bard"
+        },
+		{
+            "type": "single",
+            "resource": "minecraft:ebg/unkown"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/banker"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/bloomer"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/cactusbill"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/cadet"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/calcium"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/cursed"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/earth"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/fiend"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/fishing"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/flame"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/humantorpedo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/ice"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/idk"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/illusionist"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/jester"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/light"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/marksman"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/mechanical"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/olympian"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/outletfork"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/pugilist"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/sand"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/saws"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/shadow"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/slime"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/snake"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/sodium"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/swordsman"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/tide"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/trackstar"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/traveler"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/turret"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:ebg/wizard"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/adder"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/backs/common"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/alpha"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/bee"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/beehive"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/mantis_god"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/bells"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/black_goat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/bloodhound"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/bullfrog"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/chime"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/coyote"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/field_mice"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/geck"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/geckfeu"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/gold_nugget"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/grizzly"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/excer"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/opossum"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/pack_mule"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/rattler"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/skunk"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/starvation"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/stinkbug_talking"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/stoat_talking"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:astronaut"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:bunnyhat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:cathat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:comicallylargespoon"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:cowboyhat"
+		},
+        {
+            "type": "single",
+            "resource": "minecraft:dipperhat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:disguise"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:doghat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:firefly"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:froghat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:goggles"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:halo"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:hat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:horns"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mouthwash"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:antennae"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:question"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:plush"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:snowmanhat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:mushroom"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:penguinhat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:piratehat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:portalgun"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:raygun"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:redheadband"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:scarf"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:spinner"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:toyhammer"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:strawhat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:witchhat"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:twefive"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/wolf_talking"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:stone"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/the_smoke"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/urayuli"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/wolf"
+        },
+        {
+            "type": "single",
+            "resource": "minecraft:border/wolf_cub"
+        },
+        {
+            "type": "single",
+            "resource": "modelengine:entity/djungleskog_alive"
+        }
+    ]
+}
