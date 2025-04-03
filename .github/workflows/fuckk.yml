@@ -1,5 +1,5 @@
 name: Resource Pack Zipper
-run-name: ${{ github.actor }} is fighting for her life
+run-name: ${{ github.actor }} is fighting for her life.
 on: [push]
 jobs:
   Explore-GitHub-Actions:
