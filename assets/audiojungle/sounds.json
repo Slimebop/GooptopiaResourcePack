@@ -47,6 +47,10 @@
     "sounds": [
       "audiojungle:noise"]
     },
+  "thetapes": {
+    "sounds": [
+      "audiojungle:thetapes"]
+    },
   "preparethedrillbetter": {
     "sounds": [
       "audiojungle:preparethedrillbetter"]
