@@ -1,0 +1,19 @@
+{
+  "intro": {
+    "sounds": [
+      "gamechanger:intro"]
+    },
+  "outro": {
+    "sounds": [
+      "gamechanger:outro"]
+    },
+  "ding": {
+    "sounds": [
+      "gamechanger:ding"]
+    },
+  "prompt": {
+    "sounds": [
+      "gamechanger:prompt"]
+    }
+}
+
